@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin provides the <a href="https://asm.ow2.io/">ASM</a> APIs (v${revision}) for other plugins.
+</div>
